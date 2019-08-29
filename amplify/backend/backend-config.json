@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"vueauth6f850fb5": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
